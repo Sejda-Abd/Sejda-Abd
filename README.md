@@ -48,7 +48,7 @@ Flask | AI Integration | Machine Learning basics | Automation with Python
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="[www.linkedin.com/in/sejda-ben-abdellatif-44b503173](https://www.linkedin.com/in/sejda-ben-abdellatif-44b503173/)" target="_blank">
+  <a href="www.linkedin.com/in/sejda-ben-abdellatif-44b503173" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:abdellatif.sejda@gmail.com">
